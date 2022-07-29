@@ -6,6 +6,8 @@ First please run the graphql-weather-api on port 4000 ( `npm run dev` ) [This is
 Please run `npm install`
 Please run `npm start`
 
+The application front-end will fun on port 3000 🚀 !
+
 # What I have done so far : 
 
 I created a react app where I  set up an Apollo GraphQL client and a Redux store 
